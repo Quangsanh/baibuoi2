@@ -1,0 +1,26 @@
+*body{
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    margin: 40px auto;
+    max-width: 650px;   
+    display: block;
+    
+
+}
+
+h1 {
+    color:black;
+    font-style:normal;
+    
+}
+h2 { color:black;
+    font-style:normal;
+   
+}
+
+p{
+    color:black;
+    font-style:normal;
+   
+}
